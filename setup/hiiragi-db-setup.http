@@ -1,0 +1,2 @@
+# HiiragiRW01テーブルを作成
+POST http://localhost:38080/crud/hiiragi/rw01 HTTP/1.1
