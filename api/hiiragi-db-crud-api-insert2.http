@@ -1,0 +1,9 @@
+# HiiragiRW01テーブルにレコードを登録する。
+POST http://localhost:38082/hiiragi/rw01 HTTP/1.1
+content-type: application/json
+
+{
+    "routeId": "HRGI",
+    "staCode": "RW0102",
+    "staName": "東柊坂"
+}
